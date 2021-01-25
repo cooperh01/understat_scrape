@@ -1,7 +1,7 @@
 # Understat Data Scrape
 Scrape Shot location data from understat.com
 
-![]
+![](https://github.com/cooperh01/understat_scrape/blob/main/FornalsSDScrap.ipynb)
 
 ```
 import requests
